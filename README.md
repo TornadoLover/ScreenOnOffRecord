@@ -21,6 +21,6 @@ The lock/off after screen timeout will be recorded too.
 The output file "info.txt" will be stored in the root derectory of your SD card in android phone by default.
 
 Result example: 
-Wed Nov 04 10:17:28 EST 2015 Screen OFF! 96.0%
+Wed Nov 04 10:17:28 EST 2015 Screen OFF! 96.0% 
 Wed Nov 04 10:18:33 EST 2015 Screen ON! 95.0%
 
